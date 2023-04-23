@@ -17,8 +17,10 @@ SC1015 Earthquake Prediction.pptx -> Presentation slides used for video presenta
 
 ## Team Members for C133 Team 4
 
-Lee Min Han (U2222834A)
-Ravipudi Abhijeet Chowdary (U2220816C)
+Lee Min Han (U2222834A) 
+
+Ravipudi Abhijeet Chowdary (U2220816C) 
+
 Leong Ling Min Fernando (U2220587L)
 
 ## References

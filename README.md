@@ -15,6 +15,8 @@ earthquakedata.csv -> Dataset used for project
 
 SC1015 Earthquake Prediction.pptx -> Presentation slides used for video presentation
 
+Link to video presentation -> https://www.youtube.com/watch?v=JG0fVuyGdk0
+
 ## Team Members for C133 Team 4
 
 Lee Min Han (U2222834A) 
